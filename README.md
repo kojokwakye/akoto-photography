@@ -1,2 +1,2 @@
-## Akoto's website  
-i will work on this after i learn javascript and a frame work (maybe react)
+## MDN's Switch Example
+practising js with an example from mdn docs
